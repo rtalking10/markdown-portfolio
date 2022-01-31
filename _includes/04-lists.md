@@ -1,3 +1,3 @@
-*reading
-*riting
-*rithmatic
+* reading
+* riting
+* rithmatic
